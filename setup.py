@@ -65,7 +65,8 @@ setup(
         "matplotlib",
         "keras_ding",
         "silence_tensorflow",
-        "scikit_learn"
+        "scikit_learn",
+        "plot_keras_history"
     ],
     extras_require=extras,
 )
