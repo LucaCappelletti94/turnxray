@@ -63,7 +63,8 @@ setup(
         "pandas",
         "opencv-python",
         "matplotlib",
-        "keras_ding"
+        "keras_ding",
+        "silence_tensorflow"
     ],
     extras_require=extras,
 )
