@@ -62,7 +62,8 @@ setup(
     install_requires=[
         "pandas",
         "opencv-python",
-        "matplotlib"
+        "matplotlib",
+        "keras_ding"
     ],
     extras_require=extras,
 )
