@@ -61,7 +61,8 @@ setup(
     # Add here the package dependencies
     install_requires=[
         "pandas",
-        "opencv-python"
+        "opencv-python",
+        "maplotlib"
     ],
     extras_require=extras,
 )
