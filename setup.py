@@ -64,7 +64,8 @@ setup(
         "opencv-python",
         "matplotlib",
         "keras_ding",
-        "silence_tensorflow"
+        "silence_tensorflow",
+        "scikit_learn"
     ],
     extras_require=extras,
 )
